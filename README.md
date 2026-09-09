@@ -1,8 +1,8 @@
-# The-Odin-Project
+# Recipe Website
 ## Description
 A Website for simple 5 ingredient recipes
 ## Goals
-Practise HTMl concepts such as:
-- Linking between pages
+Practise HTML concepts such as:
+- Links between pages
 - Images
 - Order and unordered lists
